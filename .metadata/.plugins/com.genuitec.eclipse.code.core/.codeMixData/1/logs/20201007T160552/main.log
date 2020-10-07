@@ -1,0 +1,22 @@
+[2020-10-07 16:05:53.728] [main] [info] update#ctor - updates are disabled as there is no update URL
+[2020-10-07 16:27:06.793] [main] [error] Error: ENOENT: no such file or directory, open '/opt/lampp/htdocs/lm (1)/.metadata/.plugins/com.genuitec.eclipse.code.core/.codeMixData/1/storage.json'
+    at Object.openSync (original-fs.js:447:3)
+    at Object.writeFileSync (/opt/eclipse-dsl-2020-09-R-linux-gtk-x86_64/eclipse/plugins/com.genuitec.eclipse.code.engine.app.linux.x86_64_3.6.0.202002212104/engine/resources/app/out/vs/code/electron-main/main.js:13567:23)
+    at FileStorage.saveSync (/opt/eclipse-dsl-2020-09-R-linux-gtk-x86_64/eclipse/plugins/com.genuitec.eclipse.code.engine.app.linux.x86_64_3.6.0.202002212104/engine/resources/app/out/vs/code/electron-main/main.js:24767:23)
+    at FileStorage.setItem (/opt/eclipse-dsl-2020-09-R-linux-gtk-x86_64/eclipse/plugins/com.genuitec.eclipse.code.engine.app.linux.x86_64_3.6.0.202002212104/engine/resources/app/out/vs/code/electron-main/main.js:24752:18)
+    at StateService.setItem (/opt/eclipse-dsl-2020-09-R-linux-gtk-x86_64/eclipse/plugins/com.genuitec.eclipse.code.engine.app.linux.x86_64_3.6.0.202002212104/engine/resources/app/out/vs/code/electron-main/main.js:24787:30)
+    at Menubar.updateMenu (/opt/eclipse-dsl-2020-09-R-linux-gtk-x86_64/eclipse/plugins/com.genuitec.eclipse.code.engine.app.linux.x86_64_3.6.0.202002212104/engine/resources/app/out/vs/code/electron-main/main.js:30731:31)
+    at MenubarMainService.updateMenubar (/opt/eclipse-dsl-2020-09-R-linux-gtk-x86_64/eclipse/plugins/com.genuitec.eclipse.code.engine.app.linux.x86_64_3.6.0.202002212104/engine/resources/app/out/vs/code/electron-main/main.js:31297:31)
+    at Object.call (/opt/eclipse-dsl-2020-09-R-linux-gtk-x86_64/eclipse/plugins/com.genuitec.eclipse.code.engine.app.linux.x86_64_3.6.0.202002212104/engine/resources/app/out/vs/code/electron-main/main.js:15801:35)
+    at ChannelServer.onPromise (/opt/eclipse-dsl-2020-09-R-linux-gtk-x86_64/eclipse/plugins/com.genuitec.eclipse.code.engine.app.linux.x86_64_3.6.0.202002212104/engine/resources/app/out/vs/code/electron-main/main.js:14680:35)
+    at ChannelServer.onRawMessage (/opt/eclipse-dsl-2020-09-R-linux-gtk-x86_64/eclipse/plugins/com.genuitec.eclipse.code.engine.app.linux.x86_64_3.6.0.202002212104/engine/resources/app/out/vs/code/electron-main/main.js:14662:33)
+    at /opt/eclipse-dsl-2020-09-R-linux-gtk-x86_64/eclipse/plugins/com.genuitec.eclipse.code.engine.app.linux.x86_64_3.6.0.202002212104/engine/resources/app/out/vs/code/electron-main/main.js:14622:73
+    at Emitter.fire (/opt/eclipse-dsl-2020-09-R-linux-gtk-x86_64/eclipse/plugins/com.genuitec.eclipse.code.engine.app.linux.x86_64_3.6.0.202002212104/engine/resources/app/out/vs/code/electron-main/main.js:4077:38)
+    at /opt/eclipse-dsl-2020-09-R-linux-gtk-x86_64/eclipse/plugins/com.genuitec.eclipse.code.engine.app.linux.x86_64_3.6.0.202002212104/engine/resources/app/out/vs/code/electron-main/main.js:3662:93
+    at Emitter.fire (/opt/eclipse-dsl-2020-09-R-linux-gtk-x86_64/eclipse/plugins/com.genuitec.eclipse.code.engine.app.linux.x86_64_3.6.0.202002212104/engine/resources/app/out/vs/code/electron-main/main.js:4077:38)
+    at /opt/eclipse-dsl-2020-09-R-linux-gtk-x86_64/eclipse/plugins/com.genuitec.eclipse.code.engine.app.linux.x86_64_3.6.0.202002212104/engine/resources/app/out/vs/code/electron-main/main.js:3674:106
+    at Emitter.fire (/opt/eclipse-dsl-2020-09-R-linux-gtk-x86_64/eclipse/plugins/com.genuitec.eclipse.code.engine.app.linux.x86_64_3.6.0.202002212104/engine/resources/app/out/vs/code/electron-main/main.js:4077:38)
+    at EventEmitter.fn (/opt/eclipse-dsl-2020-09-R-linux-gtk-x86_64/eclipse/plugins/com.genuitec.eclipse.code.engine.app.linux.x86_64_3.6.0.202002212104/engine/resources/app/out/vs/code/electron-main/main.js:3878:44)
+    at EventEmitter.emit (events.js:200:13)
+    at WebContents.<anonymous> (/opt/eclipse-dsl-2020-09-R-linux-gtk-x86_64/eclipse/plugins/com.genuitec.eclipse.code.engine.app.linux.x86_64_3.6.0.202002212104/engine/resources/electron.asar/browser/api/web-contents.js:335:21)
+    at WebContents.emit (events.js:200:13)

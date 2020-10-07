@@ -1,0 +1,9 @@
+DEBUG     Checking PHPLS_ALLOW_XDEBUG
+
+DEBUG     The xdebug extension is not loaded
+
+[Info  - 4:07:25 PM] 0 files total
+[Info  - 4:07:27 PM] Indexing project for definitions and static references
+[Info  - 4:07:27 PM] Indexing project for dynamic references
+[Info  - 4:07:27 PM] 0 Packages
+[Info  - 4:07:27 PM] All 0 PHP files parsed in 0 seconds. 150 MiB allocated.

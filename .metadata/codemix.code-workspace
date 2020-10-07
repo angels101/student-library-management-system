@@ -1,0 +1,10 @@
+{
+  "folders": [
+    {
+      "path": "/opt/lm"
+    }
+  ],
+  "settings": {
+    "php.suggest.basic": "false"
+  }
+}

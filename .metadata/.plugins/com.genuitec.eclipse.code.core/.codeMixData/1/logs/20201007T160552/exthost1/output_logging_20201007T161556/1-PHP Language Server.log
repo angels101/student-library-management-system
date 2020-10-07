@@ -1,0 +1,408 @@
+DEBUG     Checking PHPLS_ALLOW_XDEBUG
+DEBUG     The xdebug extension is not loaded
+
+[Info  - 4:15:59 PM] 3514 files total
+[Info  - 4:15:59 PM] Indexing project for definitions and static references
+Parsing file:///opt/lm/requirements.php
+Parsing file:///opt/lm/frontend/models/ContactForm.php
+Parsing file:///opt/lm/frontend/models/SignupForm.php
+Parsing file:///opt/lm/frontend/models/VerifyEmailForm.php
+Parsing file:///opt/lm/frontend/models/ResetPasswordForm.php
+Parsing file:///opt/lm/frontend/models/ResendVerificationEmailForm.php
+Parsing file:///opt/lm/frontend/models/PasswordResetRequestForm.php
+Parsing file:///opt/lm/frontend/models/Student.php
+Parsing file:///opt/lm/frontend/models/StudentSearch.php
+Parsing file:///opt/lm/frontend/views/student/create.php
+Parsing file:///opt/lm/frontend/views/student/_form.php
+Parsing file:///opt/lm/frontend/views/student/index.php
+Parsing file:///opt/lm/frontend/views/student/view.php
+Parsing file:///opt/lm/frontend/views/student/update.php
+Parsing file:///opt/lm/frontend/views/student/_search.php
+Parsing file:///opt/lm/frontend/views/site/login.php
+Parsing file:///opt/lm/frontend/views/site/resetPassword.php
+Parsing file:///opt/lm/frontend/views/site/requestPasswordResetToken.php
+Parsing file:///opt/lm/frontend/views/site/resendVerificationEmail.php
+Parsing file:///opt/lm/frontend/views/site/contact.php
+Parsing file:///opt/lm/frontend/views/site/signup.php
+Parsing file:///opt/lm/frontend/views/site/index.php
+Parsing file:///opt/lm/frontend/views/site/error.php
+Parsing file:///opt/lm/frontend/views/site/about.php
+Parsing file:///opt/lm/frontend/views/layouts/main-login.php
+Parsing file:///opt/lm/frontend/views/layouts/content.php
+Parsing file:///opt/lm/frontend/views/layouts/left.php
+Parsing file:///opt/lm/frontend/views/layouts/main.php
+Parsing file:///opt/lm/frontend/views/layouts/header.php
+Parsing file:///opt/lm/frontend/assets/AppAsset.php
+Parsing file:///opt/lm/frontend/config/params.php
+Parsing file:///opt/lm/frontend/config/test-local.php
+Parsing file:///opt/lm/frontend/config/bootstrap.php
+Parsing file:///opt/lm/frontend/config/main.php
+Parsing file:///opt/lm/frontend/config/params-local.php
+Parsing file:///opt/lm/frontend/config/main-local.php
+Parsing file:///opt/lm/frontend/config/test.php
+Parsing file:///opt/lm/frontend/config/codeception-local.php
+Parsing file:///opt/lm/frontend/tests/_data/login_data.php
+Parsing file:///opt/lm/frontend/tests/_data/user.php
+Parsing file:///opt/lm/frontend/tests/_bootstrap.php
+Parsing file:///opt/lm/frontend/tests/unit/models/ResendVerificationEmailFormTest.php
+Parsing file:///opt/lm/frontend/tests/unit/models/SignupFormTest.php
+Parsing file:///opt/lm/frontend/tests/unit/models/ContactFormTest.php
+Parsing file:///opt/lm/frontend/tests/unit/models/VerifyEmailFormTest.php
+Parsing file:///opt/lm/frontend/tests/unit/models/ResetPasswordFormTest.php
+Parsing file:///opt/lm/frontend/tests/unit/models/PasswordResetRequestFormTest.php
+Parsing file:///opt/lm/frontend/tests/unit/_bootstrap.php
+Parsing file:///opt/lm/frontend/tests/acceptance/_bootstrap.php
+Parsing file:///opt/lm/frontend/tests/acceptance/HomeCest.php
+Parsing file:///opt/lm/frontend/tests/_support/FunctionalTester.php
+Parsing file:///opt/lm/frontend/tests/_support/UnitTester.php
+Parsing file:///opt/lm/frontend/tests/functional/ResendVerificationEmailCest.php
+Parsing file:///opt/lm/frontend/tests/functional/ContactCest.php
+Parsing file:///opt/lm/frontend/tests/functional/SignupCest.php
+Parsing file:///opt/lm/frontend/tests/functional/LoginCest.php
+Parsing file:///opt/lm/frontend/tests/functional/_bootstrap.php
+Parsing file:///opt/lm/frontend/tests/functional/AboutCest.php
+Parsing file:///opt/lm/frontend/tests/functional/HomeCest.php
+Parsing file:///opt/lm/frontend/tests/functional/VerifyEmailCest.php
+Parsing file:///opt/lm/frontend/controllers/SiteController.php
+Parsing file:///opt/lm/frontend/controllers/StudentController.php
+Parsing file:///opt/lm/environments/dev/frontend/config/test-local.php
+Parsing file:///opt/lm/environments/dev/frontend/config/params-local.php
+Parsing file:///opt/lm/environments/dev/frontend/config/main-local.php
+Parsing file:///opt/lm/environments/dev/frontend/config/codeception-local.php
+Parsing file:///opt/lm/environments/dev/frontend/web/index.php
+Parsing file:///opt/lm/environments/dev/frontend/web/index-test.php
+Parsing file:///opt/lm/environments/dev/common/config/test-local.php
+Parsing file:///opt/lm/environments/dev/common/config/params-local.php
+Parsing file:///opt/lm/environments/dev/common/config/main-local.php
+Parsing file:///opt/lm/environments/dev/common/config/codeception-local.php
+Parsing file:///opt/lm/environments/dev/backend/config/test-local.php
+Parsing file:///opt/lm/environments/dev/backend/config/params-local.php
+Parsing file:///opt/lm/environments/dev/backend/config/main-local.php
+Parsing file:///opt/lm/environments/dev/backend/config/codeception-local.php
+Parsing file:///opt/lm/environments/dev/backend/web/index.php
+Parsing file:///opt/lm/environments/dev/backend/web/index-test.php
+Parsing file:///opt/lm/environments/dev/console/config/test-local.php
+Parsing file:///opt/lm/environments/dev/console/config/params-local.php
+Parsing file:///opt/lm/environments/dev/console/config/main-local.php
+Parsing file:///opt/lm/environments/index.php
+Parsing file:///opt/lm/environments/prod/frontend/config/params-local.php
+Parsing file:///opt/lm/environments/prod/frontend/config/main-local.php
+Parsing file:///opt/lm/environments/prod/frontend/web/index.php
+Parsing file:///opt/lm/environments/prod/common/config/params-local.php
+Parsing file:///opt/lm/environments/prod/common/config/main-local.php
+Parsing file:///opt/lm/environments/prod/backend/config/params-local.php
+Parsing file:///opt/lm/environments/prod/backend/config/main-local.php
+Parsing file:///opt/lm/environments/prod/backend/web/index.php
+Parsing file:///opt/lm/environments/prod/console/config/params-local.php
+Parsing file:///opt/lm/environments/prod/console/config/main-local.php
+Parsing file:///opt/lm/vendor/autoload.php
+Parsing file:///opt/lm/vendor/yiisoft/extensions.php
+Parsing file:///opt/lm/vendor/composer/autoload_namespaces.php
+Parsing file:///opt/lm/vendor/composer/ClassLoader.php
+Parsing file:///opt/lm/vendor/composer/autoload_classmap.php
+Parsing file:///opt/lm/vendor/composer/autoload_real.php
+Parsing file:///opt/lm/vendor/composer/autoload_files.php
+Parsing file:///opt/lm/vendor/composer/autoload_static.php
+Parsing file:///opt/lm/vendor/composer/autoload_psr4.php
+Parsing file:///opt/lm/common/models/LoginForm.php
+Parsing file:///opt/lm/common/models/User.php
+Parsing file:///opt/lm/common/fixtures/UserFixture.php
+Parsing file:///opt/lm/common/config/params.php
+Parsing file:///opt/lm/common/config/test-local.php
+Parsing file:///opt/lm/common/config/bootstrap.php
+Parsing file:///opt/lm/common/config/main.php
+Parsing file:///opt/lm/common/config/params-local.php
+Parsing file:///opt/lm/common/config/main-local.php
+Parsing file:///opt/lm/common/config/test.php
+Parsing file:///opt/lm/common/config/codeception-local.php
+Parsing file:///opt/lm/common/widgets/Alert.php
+Parsing file:///opt/lm/common/tests/_data/user.php
+Parsing file:///opt/lm/common/tests/_bootstrap.php
+Parsing file:///opt/lm/common/tests/unit/models/LoginFormTest.php
+Parsing file:///opt/lm/common/tests/_support/UnitTester.php
+Parsing file:///opt/lm/common/mail/passwordResetToken-html.php
+Parsing file:///opt/lm/common/mail/passwordResetToken-text.php
+Parsing file:///opt/lm/common/mail/emailVerify-text.php
+Parsing file:///opt/lm/common/mail/emailVerify-html.php
+Parsing file:///opt/lm/common/mail/layouts/html.php
+Parsing file:///opt/lm/common/mail/layouts/text.php
+Parsing file:///opt/lm/index.php
+Parsing file:///opt/lm/index-test.php
+Parsing file:///opt/lm/backend/views/site/login.php
+Parsing file:///opt/lm/backend/views/site/index.php
+Parsing file:///opt/lm/backend/views/site/error.php
+Parsing file:///opt/lm/backend/views/layouts/blank.php
+Parsing file:///opt/lm/backend/views/layouts/main.php
+Parsing file:///opt/lm/backend/assets/AppAsset.php
+Parsing file:///opt/lm/backend/config/params.php
+Parsing file:///opt/lm/backend/config/test-local.php
+Parsing file:///opt/lm/backend/config/bootstrap.php
+Parsing file:///opt/lm/backend/config/main.php
+Parsing file:///opt/lm/backend/config/params-local.php
+Parsing file:///opt/lm/backend/config/main-local.php
+Parsing file:///opt/lm/backend/config/test.php
+Parsing file:///opt/lm/backend/config/codeception-local.php
+Parsing file:///opt/lm/backend/tests/_data/login_data.php
+Parsing file:///opt/lm/backend/tests/_bootstrap.php
+Parsing file:///opt/lm/backend/tests/unit/_bootstrap.php
+Parsing file:///opt/lm/backend/tests/_support/FunctionalTester.php
+Parsing file:///opt/lm/backend/tests/_support/UnitTester.php
+Parsing file:///opt/lm/backend/tests/functional/LoginCest.php
+Parsing file:///opt/lm/backend/tests/functional/_bootstrap.php
+Parsing file:///opt/lm/backend/web/index.php
+Parsing file:///opt/lm/backend/web/index-test.php
+Parsing file:///opt/lm/backend/controllers/SiteController.php
+Parsing file:///opt/lm/console/migrations/m130524_201442_init.php
+Parsing file:///opt/lm/console/migrations/m190124_110200_add_verification_token_column_to_user_table.php
+Parsing file:///opt/lm/console/config/params.php
+Parsing file:///opt/lm/console/config/test-local.php
+Parsing file:///opt/lm/console/config/bootstrap.php
+Parsing file:///opt/lm/console/config/main.php
+Parsing file:///opt/lm/console/config/params-local.php
+Parsing file:///opt/lm/console/config/main-local.php
+Parsing file:///opt/lm/console/config/test.php
+[Info  - 4:16:01 PM] Indexing project for dynamic references
+Parsing file:///opt/lm/requirements.php
+Parsing file:///opt/lm/frontend/models/ContactForm.php
+Parsing file:///opt/lm/frontend/models/SignupForm.php
+Parsing file:///opt/lm/frontend/models/VerifyEmailForm.php
+Parsing file:///opt/lm/frontend/models/ResetPasswordForm.php
+Parsing file:///opt/lm/frontend/models/ResendVerificationEmailForm.php
+Parsing file:///opt/lm/frontend/models/PasswordResetRequestForm.php
+Parsing file:///opt/lm/frontend/models/Student.php
+Parsing file:///opt/lm/frontend/models/StudentSearch.php
+Parsing file:///opt/lm/frontend/views/student/create.php
+Parsing file:///opt/lm/frontend/views/student/_form.php
+Parsing file:///opt/lm/frontend/views/student/index.php
+Parsing file:///opt/lm/frontend/views/student/view.php
+Parsing file:///opt/lm/frontend/views/student/update.php
+Parsing file:///opt/lm/frontend/views/student/_search.php
+Parsing file:///opt/lm/frontend/views/site/login.php
+Parsing file:///opt/lm/frontend/views/site/resetPassword.php
+Parsing file:///opt/lm/frontend/views/site/requestPasswordResetToken.php
+Parsing file:///opt/lm/frontend/views/site/resendVerificationEmail.php
+Parsing file:///opt/lm/frontend/views/site/contact.php
+Parsing file:///opt/lm/frontend/views/site/signup.php
+Parsing file:///opt/lm/frontend/views/site/index.php
+Parsing file:///opt/lm/frontend/views/site/error.php
+Parsing file:///opt/lm/frontend/views/site/about.php
+Parsing file:///opt/lm/frontend/views/layouts/main-login.php
+Parsing file:///opt/lm/frontend/views/layouts/content.php
+Parsing file:///opt/lm/frontend/views/layouts/left.php
+Parsing file:///opt/lm/frontend/views/layouts/main.php
+Parsing file:///opt/lm/frontend/views/layouts/header.php
+Parsing file:///opt/lm/frontend/assets/AppAsset.php
+Parsing file:///opt/lm/frontend/config/params.php
+Parsing file:///opt/lm/frontend/config/test-local.php
+Parsing file:///opt/lm/frontend/config/bootstrap.php
+Parsing file:///opt/lm/frontend/config/main.php
+Parsing file:///opt/lm/frontend/config/params-local.php
+Parsing file:///opt/lm/frontend/config/main-local.php
+Parsing file:///opt/lm/frontend/config/test.php
+Parsing file:///opt/lm/frontend/config/codeception-local.php
+Parsing file:///opt/lm/frontend/tests/_data/login_data.php
+Parsing file:///opt/lm/frontend/tests/_data/user.php
+Parsing file:///opt/lm/frontend/tests/_bootstrap.php
+Parsing file:///opt/lm/frontend/tests/unit/models/ResendVerificationEmailFormTest.php
+Parsing file:///opt/lm/frontend/tests/unit/models/SignupFormTest.php
+Parsing file:///opt/lm/frontend/tests/unit/models/ContactFormTest.php
+Parsing file:///opt/lm/frontend/tests/unit/models/VerifyEmailFormTest.php
+Parsing file:///opt/lm/frontend/tests/unit/models/ResetPasswordFormTest.php
+Parsing file:///opt/lm/frontend/tests/unit/models/PasswordResetRequestFormTest.php
+Parsing file:///opt/lm/frontend/tests/unit/_bootstrap.php
+Parsing file:///opt/lm/frontend/tests/acceptance/_bootstrap.php
+Parsing file:///opt/lm/frontend/tests/acceptance/HomeCest.php
+Parsing file:///opt/lm/frontend/tests/_support/FunctionalTester.php
+Parsing file:///opt/lm/frontend/tests/_support/UnitTester.php
+Parsing file:///opt/lm/frontend/tests/functional/ResendVerificationEmailCest.php
+Parsing file:///opt/lm/frontend/tests/functional/ContactCest.php
+Parsing file:///opt/lm/frontend/tests/functional/SignupCest.php
+Parsing file:///opt/lm/frontend/tests/functional/LoginCest.php
+Parsing file:///opt/lm/frontend/tests/functional/_bootstrap.php
+Parsing file:///opt/lm/frontend/tests/functional/AboutCest.php
+Parsing file:///opt/lm/frontend/tests/functional/HomeCest.php
+Parsing file:///opt/lm/frontend/tests/functional/VerifyEmailCest.php
+Parsing file:///opt/lm/frontend/controllers/SiteController.php
+Parsing file:///opt/lm/frontend/controllers/StudentController.php
+Parsing file:///opt/lm/environments/dev/frontend/config/test-local.php
+Parsing file:///opt/lm/environments/dev/frontend/config/params-local.php
+Parsing file:///opt/lm/environments/dev/frontend/config/main-local.php
+Parsing file:///opt/lm/environments/dev/frontend/config/codeception-local.php
+Parsing file:///opt/lm/environments/dev/frontend/web/index.php
+Parsing file:///opt/lm/environments/dev/frontend/web/index-test.php
+Parsing file:///opt/lm/environments/dev/common/config/test-local.php
+Parsing file:///opt/lm/environments/dev/common/config/params-local.php
+Parsing file:///opt/lm/environments/dev/common/config/main-local.php
+Parsing file:///opt/lm/environments/dev/common/config/codeception-local.php
+Parsing file:///opt/lm/environments/dev/backend/config/test-local.php
+Parsing file:///opt/lm/environments/dev/backend/config/params-local.php
+Parsing file:///opt/lm/environments/dev/backend/config/main-local.php
+Parsing file:///opt/lm/environments/dev/backend/config/codeception-local.php
+Parsing file:///opt/lm/environments/dev/backend/web/index.php
+Parsing file:///opt/lm/environments/dev/backend/web/index-test.php
+Parsing file:///opt/lm/environments/dev/console/config/test-local.php
+Parsing file:///opt/lm/environments/dev/console/config/params-local.php
+Parsing file:///opt/lm/environments/dev/console/config/main-local.php
+Parsing file:///opt/lm/environments/index.php
+Parsing file:///opt/lm/environments/prod/frontend/config/params-local.php
+Parsing file:///opt/lm/environments/prod/frontend/config/main-local.php
+Parsing file:///opt/lm/environments/prod/frontend/web/index.php
+Parsing file:///opt/lm/environments/prod/common/config/params-local.php
+Parsing file:///opt/lm/environments/prod/common/config/main-local.php
+Parsing file:///opt/lm/environments/prod/backend/config/params-local.php
+Parsing file:///opt/lm/environments/prod/backend/config/main-local.php
+Parsing file:///opt/lm/environments/prod/backend/web/index.php
+Parsing file:///opt/lm/environments/prod/console/config/params-local.php
+Parsing file:///opt/lm/environments/prod/console/config/main-local.php
+Parsing file:///opt/lm/vendor/autoload.php
+Parsing file:///opt/lm/vendor/yiisoft/extensions.php
+Parsing file:///opt/lm/vendor/composer/autoload_namespaces.php
+Parsing file:///opt/lm/vendor/composer/ClassLoader.php
+Parsing file:///opt/lm/vendor/composer/autoload_classmap.php
+Parsing file:///opt/lm/vendor/composer/autoload_real.php
+Parsing file:///opt/lm/vendor/composer/autoload_files.php
+Parsing file:///opt/lm/vendor/composer/autoload_static.php
+Parsing file:///opt/lm/vendor/composer/autoload_psr4.php
+Parsing file:///opt/lm/common/models/LoginForm.php
+Parsing file:///opt/lm/common/models/User.php
+Parsing file:///opt/lm/common/fixtures/UserFixture.php
+Parsing file:///opt/lm/common/config/params.php
+Parsing file:///opt/lm/common/config/test-local.php
+Parsing file:///opt/lm/common/config/bootstrap.php
+Parsing file:///opt/lm/common/config/main.php
+Parsing file:///opt/lm/common/config/params-local.php
+Parsing file:///opt/lm/common/config/main-local.php
+Parsing file:///opt/lm/common/config/test.php
+Parsing file:///opt/lm/common/config/codeception-local.php
+Parsing file:///opt/lm/common/widgets/Alert.php
+Parsing file:///opt/lm/common/tests/_data/user.php
+Parsing file:///opt/lm/common/tests/_bootstrap.php
+Parsing file:///opt/lm/common/tests/unit/models/LoginFormTest.php
+Parsing file:///opt/lm/common/tests/_support/UnitTester.php
+Parsing file:///opt/lm/common/mail/passwordResetToken-html.php
+Parsing file:///opt/lm/common/mail/passwordResetToken-text.php
+Parsing file:///opt/lm/common/mail/emailVerify-text.php
+Parsing file:///opt/lm/common/mail/emailVerify-html.php
+Parsing file:///opt/lm/common/mail/layouts/html.php
+Parsing file:///opt/lm/common/mail/layouts/text.php
+Parsing file:///opt/lm/index.php
+Parsing file:///opt/lm/index-test.php
+Parsing file:///opt/lm/backend/views/site/login.php
+Parsing file:///opt/lm/backend/views/site/index.php
+Parsing file:///opt/lm/backend/views/site/error.php
+Parsing file:///opt/lm/backend/views/layouts/blank.php
+Parsing file:///opt/lm/backend/views/layouts/main.php
+Parsing file:///opt/lm/backend/assets/AppAsset.php
+Parsing file:///opt/lm/backend/config/params.php
+Parsing file:///opt/lm/backend/config/test-local.php
+Parsing file:///opt/lm/backend/config/bootstrap.php
+Parsing file:///opt/lm/backend/config/main.php
+Parsing file:///opt/lm/backend/config/params-local.php
+Parsing file:///opt/lm/backend/config/main-local.php
+Parsing file:///opt/lm/backend/config/test.php
+Parsing file:///opt/lm/backend/config/codeception-local.php
+Parsing file:///opt/lm/backend/tests/_data/login_data.php
+Parsing file:///opt/lm/backend/tests/_bootstrap.php
+Parsing file:///opt/lm/backend/tests/unit/_bootstrap.php
+Parsing file:///opt/lm/backend/tests/_support/FunctionalTester.php
+Parsing file:///opt/lm/backend/tests/_support/UnitTester.php
+Parsing file:///opt/lm/backend/tests/functional/LoginCest.php
+Parsing file:///opt/lm/backend/tests/functional/_bootstrap.php
+Parsing file:///opt/lm/backend/web/index.php
+Parsing file:///opt/lm/backend/web/index-test.php
+Parsing file:///opt/lm/backend/controllers/SiteController.php
+Parsing file:///opt/lm/console/migrations/m130524_201442_init.php
+Parsing file:///opt/lm/console/migrations/m190124_110200_add_verification_token_column_to_user_table.php
+Parsing file:///opt/lm/console/config/params.php
+Parsing file:///opt/lm/console/config/test-local.php
+Parsing file:///opt/lm/console/config/bootstrap.php
+Parsing file:///opt/lm/console/config/main.php
+Parsing file:///opt/lm/console/config/params-local.php
+Parsing file:///opt/lm/console/config/main-local.php
+Parsing file:///opt/lm/console/config/test.php
+[Info  - 4:16:01 PM] 84 Packages
+[Info  - 4:16:01 PM] Restored psr/http-message:1.0.1 from cache
+[Info  - 4:16:01 PM] Restored psr/container:1.0.0 from cache
+[Info  - 4:16:01 PM] Restored psr/event-dispatcher:1.0.0 from cache
+[Info  - 4:16:01 PM] Restored sebastian/recursion-context:3.0.0 from cache
+[Info  - 4:16:01 PM] Restored sebastian/version:2.0.1 from cache
+[Info  - 4:16:01 PM] Restored sebastian/global-state:3.0.0 from cache
+[Info  - 4:16:01 PM] Restored sebastian/exporter:3.1.2 from cache
+[Info  - 4:16:01 PM] Restored sebastian/resource-operations:2.0.1 from cache
+[Info  - 4:16:01 PM] Restored sebastian/object-enumerator:3.0.3 from cache
+[Info  - 4:16:01 PM] Restored sebastian/code-unit-reverse-lookup:1.0.1 from cache
+[Info  - 4:16:01 PM] Restored sebastian/comparator:3.0.2 from cache
+[Info  - 4:16:01 PM] Restored sebastian/type:1.1.3 from cache
+[Info  - 4:16:01 PM] Restored sebastian/environment:4.2.3 from cache
+[Info  - 4:16:01 PM] Restored sebastian/diff:3.0.2 from cache
+[Info  - 4:16:01 PM] Restored sebastian/object-reflector:1.1.1 from cache
+[Info  - 4:16:01 PM] Restored symfony/yaml:5.1.5 from cache
+[Info  - 4:16:01 PM] Restored symfony/finder:5.1.5 from cache
+[Info  - 4:16:01 PM] Restored symfony/service-contracts:2.2.0 from cache
+[Info  - 4:16:01 PM] Restored symfony/deprecation-contracts:2.2.0 from cache
+[Info  - 4:16:01 PM] Restored symfony/polyfill-php70:1.18.1 from cache
+[Info  - 4:16:01 PM] Restored symfony/polyfill-mbstring:1.18.1 from cache
+[Info  - 4:16:01 PM] Restored symfony/css-selector:5.1.5 from cache
+[Info  - 4:16:01 PM] Restored symfony/polyfill-php73:1.18.1 from cache
+[Info  - 4:16:01 PM] Restored symfony/event-dispatcher-contracts:2.2.0 from cache
+[Info  - 4:16:01 PM] Restored symfony/dom-crawler:4.4.13 from cache
+[Info  - 4:16:01 PM] Restored symfony/polyfill-php72:1.18.1 from cache
+[Info  - 4:16:01 PM] Restored symfony/polyfill-ctype:1.18.1 from cache
+[Info  - 4:16:01 PM] Restored symfony/polyfill-intl-normalizer:1.18.1 from cache
+[Info  - 4:16:01 PM] Restored symfony/polyfill-intl-grapheme:1.18.1 from cache
+[Info  - 4:16:01 PM] Restored symfony/polyfill-php80:1.18.1 from cache
+[Info  - 4:16:01 PM] Restored symfony/string:5.1.5 from cache
+[Info  - 4:16:01 PM] Restored symfony/polyfill-intl-idn:1.18.1 from cache
+[Info  - 4:16:01 PM] Restored symfony/event-dispatcher:5.1.5 from cache
+[Info  - 4:16:02 PM] Restored symfony/polyfill-iconv:1.18.1 from cache
+[Info  - 4:16:02 PM] Restored symfony/browser-kit:4.2.4 from cache
+[Info  - 4:16:02 PM] Restored symfony/console:5.1.5 from cache
+[Info  - 4:16:02 PM] Restored rmrevin/yii2-fontawesome:2.17.1 from cache
+[Info  - 4:16:02 PM] Restored dmstr/yii2-adminlte-asset:2.6.2 from cache
+[Info  - 4:16:02 PM] Restored opis/closure:3.5.7 from cache
+[Info  - 4:16:02 PM] Restored webmozart/assert:1.9.1 from cache
+[Info  - 4:16:02 PM] Restored phpdocumentor/type-resolver:1.3.0 from cache
+[Info  - 4:16:02 PM] Restored phpdocumentor/reflection-common:2.2.0 from cache
+[Info  - 4:16:02 PM] Restored phpdocumentor/reflection-docblock:5.2.1 from cache
+[Info  - 4:16:02 PM] Restored doctrine/instantiator:1.3.1 from cache
+[Info  - 4:16:02 PM] Restored doctrine/lexer:1.2.1 from cache
+[Info  - 4:16:02 PM] Restored fzaninotto/faker:1.9.1 from cache
+[Info  - 4:16:02 PM] Restored yiisoft/yii2-gii:2.1.4 from cache
+[Info  - 4:16:02 PM] Restored yiisoft/yii2:2.0.38 from cache
+[Info  - 4:16:02 PM] Restored yiisoft/yii2-composer:2.0.10 from cache
+[Info  - 4:16:02 PM] Restored yiisoft/yii2-debug:2.1.13 from cache
+[Info  - 4:16:02 PM] Restored yiisoft/yii2-bootstrap:2.0.10 from cache
+[Info  - 4:16:02 PM] Restored yiisoft/yii2-faker:2.0.4 from cache
+[Info  - 4:16:02 PM] Restored yiisoft/yii2-swiftmailer:2.1.2 from cache
+[Info  - 4:16:03 PM] Restored phar-io/version:2.0.1 from cache
+[Info  - 4:16:03 PM] Restored phar-io/manifest:1.0.3 from cache
+[Info  - 4:16:03 PM] Restored theseer/tokenizer:1.2.0 from cache
+[Info  - 4:16:03 PM] Restored cebe/markdown:1.2.1 from cache
+[Info  - 4:16:03 PM] Restored cebe/yii2-gravatar:1.1 from cache
+[Info  - 4:16:03 PM] Restored ezyang/htmlpurifier:4.13.0 from cache
+[Info  - 4:16:03 PM] Restored swiftmailer/swiftmailer:6.2.3 from cache
+[Info  - 4:16:03 PM] Restored codeception/phpunit-wrapper:8.1.2 from cache
+[Info  - 4:16:03 PM] Restored codeception/verify:1.1.0 from cache
+[Info  - 4:16:03 PM] Restored codeception/lib-innerbrowser:1.3.2 from cache
+[Info  - 4:16:03 PM] Restored codeception/lib-asserts:1.13.1 from cache
+[Info  - 4:16:03 PM] Restored codeception/module-filesystem:1.0.2 from cache
+[Info  - 4:16:03 PM] Restored codeception/codeception:4.1.7 from cache
+[Info  - 4:16:03 PM] Restored codeception/module-asserts:1.3.0 from cache
+[Info  - 4:16:03 PM] Restored codeception/module-yii2:1.1.1 from cache
+[Info  - 4:16:03 PM] Restored codeception/stub:3.7.0 from cache
+[Info  - 4:16:03 PM] Restored guzzlehttp/psr7:1.6.1 from cache
+[Info  - 4:16:03 PM] Restored behat/gherkin:4.6.2 from cache
+[Info  - 4:16:03 PM] Restored phpspec/prophecy:1.11.1 from cache
+[Info  - 4:16:03 PM] Restored phpspec/php-diff:1.1.0 from cache
+[Info  - 4:16:03 PM] Restored almasaeed2010/adminlte:2.4.18 from cache
+[Info  - 4:16:03 PM] Restored myclabs/deep-copy:1.10.1 from cache
+[Info  - 4:16:03 PM] Restored ralouphie/getallheaders:3.0.3 from cache
+[Info  - 4:16:03 PM] Restored phpunit/php-token-stream:3.1.1 from cache
+[Info  - 4:16:03 PM] Restored phpunit/php-timer:2.1.2 from cache
+[Info  - 4:16:03 PM] Restored phpunit/php-text-template:1.2.1 from cache
+[Info  - 4:16:03 PM] Restored phpunit/php-file-iterator:2.0.2 from cache
+[Info  - 4:16:04 PM] Restored phpunit/phpunit:8.5.8 from cache
+[Info  - 4:16:04 PM] Restored phpunit/php-code-coverage:7.0.10 from cache
+[Info  - 4:16:04 PM] Restored egulias/email-validator:2.1.20 from cache
+[Info  - 4:16:04 PM] Restored paragonie/random_compat:9.99.99 from cache
+[Info  - 4:16:04 PM] All 3514 PHP files parsed in 4 seconds. 350 MiB allocated.
